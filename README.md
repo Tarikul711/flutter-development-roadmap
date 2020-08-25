@@ -24,3 +24,9 @@ Media Playback, Preference, Sharing
 state management
 
 setState ,Provider, Redux, BLoC, MobX
+
+
+
+Quality Assurance 
+
+Firebase, Google play beta tests , TestFlight, App Center 
