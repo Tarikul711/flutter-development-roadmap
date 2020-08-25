@@ -30,3 +30,6 @@ setState ,Provider, Redux, BLoC, MobX
 Quality Assurance 
 
 Firebase, Google play beta tests , TestFlight, App Center 
+
+
+Crashlytics, App distribution, Analytics
