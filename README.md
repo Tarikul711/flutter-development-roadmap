@@ -18,3 +18,9 @@ Flutter_webview_plug-in, font_awesome_flutter, SQFLite. rxdart, bloc_pattern
 Permission, Local Notification, Push Notification, Download Manager
 
 Media Playback, Preference, Sharing 
+
+
+
+state management
+
+setState ,Provider, Redux, BLoC, MobX
