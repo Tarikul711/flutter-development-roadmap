@@ -4,3 +4,8 @@
 
 
 add 3rd party libararies 
+
+	http
+dio
+get_it
+cached_network_image
