@@ -9,3 +9,7 @@ add 3rd party libararies
 dio
 get_it
 cached_network_image
+
+
+
+Flutter_webview_plug-in, font_awesome_flutter, SQFLite. rxdart, bloc_pattern
