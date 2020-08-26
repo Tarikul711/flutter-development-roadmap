@@ -56,4 +56,4 @@ Firebase
 
 Firebase Auth, Firebase database, Firebase Storage, Firebase Messaging
 
-
+AnimatedWidget,AnimatedBuilder,AnimationController,CurvedAnimation, Hero,Transform, Opacity
