@@ -69,4 +69,9 @@ Android
 	Google Play Store
 	In App Purchase
 
-
+ios
+	Xcode
+	Swift
+	Objective-C
+	Apple Certification
+	AppStore
