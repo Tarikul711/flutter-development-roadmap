@@ -14,6 +14,7 @@ IDE for development
 	VsCode
 	Android Studio
 	intellij
+
 User Interface
 	Widgets
 		statefull widget
@@ -31,15 +32,18 @@ User Interface
 		svg
 		audio
 		video
+
 Static User Interface
 	View
 		Text,Image,button raised button etc
 	ViewGroup
 		Container, Row, Column, Stack, Expanded, ConstrainedBox
+
 Dynamic User Interface
 	ListView 
 	GridView
 	ExpansionTitle
+
 Animation
 	AnimatedWidget
 	AnimatedBuilder
@@ -48,10 +52,12 @@ Animation
 	Hero
 	Transform
 	Opacity
+
 Sotrage
 	shared preference
 	file storage
 	sqlite
+
 3rd party libararies 
 	http
 	dio
@@ -62,6 +68,7 @@ Sotrage
 	SQFLite
 	rxdart
 	bloc_pattern
+
 Behavior Components
 	Permission
 	Local Notification
@@ -70,12 +77,14 @@ Behavior Components
 	Media Playback
 	Preference
 	Sharing 
+
 State management
 	setState
 	Provider
 	Redux
 	BLoC
 	MobX
+
 Quality Assurance 
 	Firebase
 		Crashlytics
@@ -83,17 +92,20 @@ Quality Assurance
 		Analytics
 	Google play beta tests
 	TestFlight
-	App Center 
+	App Center
+
 Version Control 
 	Git
 	Github
 	Bitbucket
 	Gitlab
+
 Firebase
 	Firebase Auth
 	Firebase database
 	Firebase Storage
 	Firebase Messaging
+
 Native Integration 
 	Android 
 		Android Studio
@@ -108,6 +120,7 @@ Native Integration
 		Objective-C
 		Apple Certification
 		AppStore
+		
 Keep Learning and try to improve your code.
 
 ## ✨ Requirements
