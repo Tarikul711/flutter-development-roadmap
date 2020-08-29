@@ -129,4 +129,4 @@
 * A little knowledge of Dart and Flutter
 * A brain to think 🤓🤓
 
-I teried to learn following this guideline. So It's not mandetory you have to follow this. Thank you. Happy Learning
+I tried to learn following this guideline. So It's not mandetory you have to follow this. Thank you. Happy Learning
