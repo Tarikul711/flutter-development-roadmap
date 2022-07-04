@@ -10,22 +10,23 @@
 
 * Programming Language
 	* Dart
+	
 * IDE for development
-	* VsCode
+	* VS Code
 	* Android Studio
-	* intellij
+	* IntelliJ IDEA
 
 * User Interface
 	* Widgets
-		* statefull widget
-		* stateless widget
-		* accessibility
+		* Stateful widget
+		* Stateless widget
+		* Accessibility
 		* Inherited widget
 			* Theming
 			* Localization
 	* Style
 		* Material
-		* Cupertion
+		* Cupertino
 	* Assets
 		* fonts
 		* images
@@ -35,9 +36,9 @@
 
 * Static User Interface
 	* View
-		* Text,Image,button raised button etc
+		* Text, Image, TextButton, ElevatedButton etc
 	* ViewGroup
-		* Container, Row, Column, Stack, Expanded, ConstrainedBox
+		* Container, Row, Column, Stack, Expanded, ConstrainedBox 
 
 * Dynamic User Interface
 	* ListView 
@@ -53,28 +54,28 @@
 	* Transform
 	* Opacity
 
-* Sotrage
-	* shared preference
-	* file storage
-	* sqlite
+* Storage
+	* Shared preferences plugin
+	* File storage
+	* SQLite
 
-* 3rd party libararies 
+* 3rd party libraries 
 	* http
 	* dio
 	* get_it
 	* cached_network_image
-	* Flutter_webview_plug-in
+	* flutter_webview_plugin
 	* font_awesome_flutter
-	* SQFLite
+	* sqflite
 	* rxdart
-	* bloc_pattern
+	* bloc
 
 * Behavior Components
 	* Permission
-	* Local Notification
-	* Push Notification
-	* Download Manager
-	* Media Playback
+	* Local notification
+	* Push notification
+	* Download manager
+	* Media playback
 	* Preference
 	* Sharing 
 
@@ -92,7 +93,7 @@
 		* Analytics
 	* Google play beta tests
 	* TestFlight
-	* App Center
+	* App center
 
 * Version Control 
 	* Git
@@ -101,34 +102,34 @@
 	* Gitlab
 
 * Firebase
-	* Firebase Auth
+	* Firebase auth
 	* Firebase database
-	* Firebase Storage
-	* Firebase Messaging
+	* Firebase storage
+	* Firebase messaging
 
 * Native Integration 
 	* Android 
-		* Android Studio
+		* Android studio
 		* Java
 		* Kotlin
-		* App Siging
-		* Google Play Store
-		* In App Purchase
-	* ios
+		* App signing
+		* Google play store
+		* In-App purchase
+	* iOS
 		* Xcode
 		* Swift
 		* Objective-C
-		* Apple Certification
-		* AppStore
+		* Apple certification
+		* App store
 
-* Keep Learning and try to improve your code.
+* Keep learning and try to improve your code.
 
 ## ✨ Requirements
 * Any Operating System (ie. MacOS X, Linux, Windows)
-* Any IDE with Flutter SDK installed (ie.  Android Studio, VSCode, IntelliJ, etc)
+* Any IDE with Flutter SDK installed (ie.  Android Studio, VSCode, IntelliJ IDEA etc)
 * A little knowledge of Dart and Flutter
 * A brain to think 🤓🤓
 
-I tried to learn following this guideline. So It's not mandetory you have to follow this. Thank you. Happy Learning
+I tried to learn by following these guidelines but it's not mandatory that you follow the same. Thank you. Happy Learning.
 
-Tag: flutter-developemnt-roadmap, flutter-app-development-roadmap, flutter-roadmap, flutter-development-learing-guideline, flutter-development-guideline, flutter-development-for-beginners, roadmap-for-beginners, flutter-learning-guideline
+Tags: flutter-development-roadmap, flutter-app-development-roadmap, flutter-roadmap, flutter-development-learning-guideline, flutter-development-guideline, flutter-development-for-beginners, roadmap-for-beginners, flutter-learning-guideline
