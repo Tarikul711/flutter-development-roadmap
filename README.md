@@ -53,7 +53,7 @@
 	* Transform
 	* Opacity
 
-* Sotrage
+* Storage
 	* shared preference
 	* file storage
 	* sqlite
