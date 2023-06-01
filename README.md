@@ -19,7 +19,7 @@
 	* Widgets
 		* statefull widget
 		* stateless widget
-		* accessibility
+		* accessibility VD(TalkBack trên Android hoặc VoiceOver trên iOS)
 		* Inherited widget
 			* Theming
 			* Localization
